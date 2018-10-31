@@ -9,3 +9,5 @@ __[Source link](https://github.com/lerocha/chinook-database)__
 * The Chinook data represents a digital media store, including tables for artists, albums, media tracks, invoices and customers
 * There are 11 tables in this database
 * Total 59 customers from 24 different countries
+__Below is Chinook data schema__
+![chinook schema](https://github.com/ejjan/SQL_project/blob/master/chinook_schema.png)
