@@ -7,5 +7,5 @@ __[Source link](https://github.com/lerocha/chinook-database)__
 
 * Chinook is a sample database available for SQL Server, Oracle, MySQL, etc.
 * The Chinook data represents a digital media store, including tables for artists, albums, media tracks, invoices and customers
-* There are 11 tables in this databas
+* There are 11 tables in this database
 * Total 59 customers from 24 different countries
