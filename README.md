@@ -10,5 +10,5 @@ __[Source link](https://github.com/lerocha/chinook-database)__
 * There are 11 tables in this database
 * Total 59 customers from 24 different countries
 <br/>
-__Below is Chinook data schema__
+__Below is Chinook data schema__<br/>
 ![chinook schema](https://github.com/ejjan/SQL_project/blob/master/chinook_schema.png)
